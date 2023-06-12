@@ -1,17 +1,19 @@
 
 <div align= "center">
-<img src= "https://blog.unipar.br/wp-content/uploads/2021/11/post_thumbnail-801c53f03508c73882d8a372d4df2e17.jpeg", width= "700px" />
+<img src= "https://blog.unipar.br/wp-content/uploads/2021/11/post_thumbnail-801c53f03508c73882d8a372d4df2e17.jpeg", width= "500px" />
 </div>
 
 Olá, que bom que você esta aqui! 😄
 
-Eu sou estatístico, e tudo relacionado a estatística e a ciência de dados me desperta o interesse. 
+Meu nome é Henrique Salviano, eu sou estatístico, e tudo relacionado a estatística e a ciência de dados me desperta o interesse. 
 
 Resumindo, I ❤️ Estat.
 
 Sou uma pessoa que gosta muito de explorar e fazer análise de dados, buscando extrair informações dos dados e construir modelos de previsões que possam ser relevantes para tomada de decisões estratégicas nas diversas áreas do conhecimento.
 
-Atualmente, estou buscando oportunidades como júnior ou trainee, que me permitam desenvolver minha carreira profissional, e que me desafie a alcançar novos horizontes. 
+Aqui você podera ver alguns dos meus projetos.
+
+
 
 Se interessou pelo meu perfil? 
 Me mande uma mensagem! E venha me conhecer melhor. 😉
@@ -30,7 +32,7 @@ A "newline". This text doesn't float anymore, is left-aligned.
 
 # Skils
 <div align="center">
-<table width="467" border="0px">
+<table width="467" border= "10" >
  <tr>
     <td> <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p> </td>

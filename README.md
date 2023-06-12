@@ -19,16 +19,25 @@ Me mande uma mensagem! E venha me conhecer melhor. 😉
 
 # Texto do lado da imagem
 
-<table>
-  <tr>
-   <img src= "https://blog.unipar.br/wp-content/uploads/2021/11/post_thumbnail-801c53f03508c73882d8a372d4df2e17.jpeg", width= "100px" />
-      </tr>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-Phasellus bibendum aliquet erat, ut ornare purus malesuada et.
+<img src="https://blog.unipar.br/wp-content/uploads/2021/11/post_thumbnail-801c53f03508c73882d8a372d4df2e17.jpeg" align="left" width="200px"/>
+some text floating around the image some text floating around the image some text floating around the image some text floating around the image
 
- 
+
+<br clear="left"/>
+
+A "newline". This text doesn't float anymore, is left-aligned.
+
+
+# Skils
+
+
+<table width="467" border="0px">
+ <tr>
+    <td> <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p> </td>
+    <td> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquesalviano&show_icons=true&locale=en&layout=compact" alt="henriquesalviano" /></p> </td>
+ </tr>
 </table>
-
 
 
 

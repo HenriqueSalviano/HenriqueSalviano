@@ -1,7 +1,23 @@
-%Adiciona capa 
+
 <div align= "center">
 <img src= "https://blog.unipar.br/wp-content/uploads/2021/11/post_thumbnail-801c53f03508c73882d8a372d4df2e17.jpeg", width= "700px" />
 </div>
+
+Olá, que bom que você esta aqui! 😄
+
+Eu sou estatístico, e tudo relacionado a estatística e a ciência de dados me desperta o interesse. 
+
+Resumindo, I ❤️ Estat.
+
+Sou uma pessoa que gosta muito de explorar e fazer análise de dados, buscando extrair informações dos dados e construir modelos de previsões que possam ser relevantes para tomada de decisões estratégicas nas diversas áreas do conhecimento.
+
+Atualmente, estou buscando oportunidades como júnior ou trainee, que me permitam desenvolver minha carreira profissional, e que me desafie a alcançar novos horizontes. 
+
+Se interessou pelo meu perfil? 
+Me mande uma mensagem! E venha me conhecer melhor. 😉
+
+
+
 
 # Contagem 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henriquesalviano&label=Profile%20views&color=0e75b6&style=flat" alt="henriquesalviano" /> </p>

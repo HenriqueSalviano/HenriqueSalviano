@@ -1,4 +1,4 @@
-# Adiciona capa 
+%Adiciona capa 
 <div align= "center">
 <img src= "https://blog.unipar.br/wp-content/uploads/2021/11/post_thumbnail-801c53f03508c73882d8a372d4df2e17.jpeg", width= "700px" />
 </div>

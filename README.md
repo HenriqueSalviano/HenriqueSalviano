@@ -17,6 +17,19 @@ Se interessou pelo meu perfil?
 Me mande uma mensagem! E venha me conhecer melhor. 😉
 
 
+# Texto do lado da imagem
+
+<table>
+  <tr>
+    <td><img  width="300" height="150" src="https://blog.unipar.br/wp-content/uploads/2021/11/post_thumbnail-801c53f03508c73882d8a372d4df2e17.jpeg"/></td>
+    
+    <td> Lorem ipsum dolor sit amet, consectetur adipiscing elit. </br>
+Phasellus bibendum aliquet erat, ut ornare purus malesuada et.</td> 
+  </tr>
+ 
+</table>
+
+
 
 
 # Contagem 

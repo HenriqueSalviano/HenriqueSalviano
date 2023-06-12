@@ -1,8 +1,7 @@
 # Adiciona capa 
-<p float="left">
- <img src="[https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg](https://blog.unipar.br/wp-content/uploads/2021/11/post_thumbnail-801c53f03508c73882d8a372d4df2e17.jpeg)" width="200" />
-</p>
-
+<div align= "center">
+<img src= "https://blog.unipar.br/wp-content/uploads/2021/11/post_thumbnail-801c53f03508c73882d8a372d4df2e17.jpeg", width= "700px" />
+</div>
 
 # Contagem 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henriquesalviano&label=Profile%20views&color=0e75b6&style=flat" alt="henriquesalviano" /> </p>

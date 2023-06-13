@@ -1,3 +1,4 @@
+https://user-images.githubusercontent.com/128048584/245565699-b0d4fde5-792a-44df-b089-e16cdd1573f6.gif
 
 <Banner>
   
@@ -13,7 +14,7 @@
 <h1 align="center">Olá, que bom que você esta aqui!😄 Eu sou o Henrique 
 <h3 align="center">Sou apaixonado por Estatística, Analise e Ciência de Dados</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/128048584/245565699-b0d4fde5-792a-44df-b089-e16cdd1573f6.gif">
 
 <br/> 
 

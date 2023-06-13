@@ -35,7 +35,7 @@ Aqui você podera ver alguns dos meus projetos.
 Caso tenha alguma duvida, ou sugestão entre em contato comigo.
   
 ## Contatos:
-- <a href="https://linkedin.com/in/http://linkedin.com/in/henrique-salviano-bbaa01b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/henrique-salviano-bbaa01b5" height="20" width="20" /> Perfil do Linkedin </a>
+- <a href="https://www.linkedin.com/in/henrique-salviano-bbaa01b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/henrique-salviano-bbaa01b5" height="20" width="20" /> Perfil do Linkedin </a>
 - <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" width="70"/> **henriquesalviano22@gmail.com**
  
 

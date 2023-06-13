@@ -2,7 +2,7 @@
 <Banner>
   
 <div align= "center">
-<img src= "https://blog.unipar.br/wp-content/uploads/2021/11/post_thumbnail-801c53f03508c73882d8a372d4df2e17.jpeg", width= "500px" />
+<img src= "https://github.com/HenriqueSalviano/HenriqueSalviano/assets/128048584/8178af8e-9b43-47e3-af98-8add32789145" />
 </div>
 
 <!------------------------------- DIVISÂO ------------------------------------->

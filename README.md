@@ -21,7 +21,7 @@
 
 ## Sobre  
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/128048584/245565572-82994e03-6921-49d6-8411-a70cd77084a2.gif">
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/128048584/245565572-82994e03-6921-49d6-8411-a70cd77084a2.gif">
   
 Meu nome é Henrique Salviano, eu sou estatístico graduado na Universidade Federal de São Carlos (UFSCar).
 

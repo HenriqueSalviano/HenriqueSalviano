@@ -46,7 +46,7 @@ Caso tenha alguma duvida, ou sugestão entre em contato comigo.
   
 ## Languages and Tools
   
-<img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquesalviano&show_icons=true&locale=en&layout=compact" alt="henriquesalviano">
+
 
 <br/>
 

@@ -29,10 +29,10 @@ Meu nome é Henrique Salviano, eu sou estatístico graduado na Universidade Fede
   
 Sou uma pessoa que gosta muito de explorar e fazer análise de dados, buscando extrair informações dos dados e construir modelos de previsões que possam ser relevantes para tomada de decisões estratégicas nas diversas áreas do conhecimento.
   
-Aqui você podera ver alguns dos meus projetos. 
+Aqui você poderá ver alguns dos meus projetos. 
 
   
-Caso tenha alguma duvida, ou sugestão entre em contato comigo.
+Caso tenha alguma dúvida, ou sugestão entre em contato comigo.
   
 ## Contatos:
 - <a href="https://www.linkedin.com/in/henrique-salviano-bbaa01b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/henrique-salviano-bbaa01b5" height="20" width="20" /> Perfil do Linkedin </a>

@@ -50,10 +50,13 @@ Caso tenha alguma dúvida, ou sugestão entre em contato comigo.
   
 <br/>
 
-- <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="30"/> Linguagem de programação R </a>
-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30"/> Python </a> 
-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/> MySQL </a> 
-- <a href= "https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30"/> SQLite </a> 
+- Linguagem de programação R. 
+- Python. 
+- SQL (MySQL).
+- Power BI. 
+- Pacote Office(Excel, Powerpoint, Word).
+- Linguagem Latex.
+
 
   
   
